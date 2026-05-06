@@ -5,3 +5,6 @@ This project proposes a computer vision pipeline for identifying individuals bas
 For more details, you can read our [project report](./Report.pdf).
 
 ---
+
+
+<img width="993" height="352" alt="handwriting" src="https://github.com/user-attachments/assets/84835d2b-045a-4596-acb1-8d19370f46c2" />
